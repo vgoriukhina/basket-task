@@ -17,7 +17,7 @@ The task was to create a library that divides the items in the customer's basket
 - Ensured the correctness, readability, and test coverage of the implemented code.
 - Created unit tests to verify the functionality of the `BasketSplitter` class.
 
-##Instalation
+## Instalation
 -Clone the repository to your local machine.
 -Import the project into your preferred Java IDE.
 -Add the necessary dependencies (Jackson ObjectMapper) to your project.
